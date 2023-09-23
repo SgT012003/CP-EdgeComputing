@@ -1,5 +1,5 @@
 # CP1 EdgeComputing ESPR
-|  Group integrant's   |
+|  Group Members  |
 |:--------------:|
 | Diogo          | 
 | João Pedro     |
