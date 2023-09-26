@@ -21,6 +21,9 @@ The project can be found on the [Tinkercad page](https://www.tinkercad.com/thing
 ## Eletrical View
 ![photo from Tinkercad of the eletric view](https://i.imgur.com/aT5Xrrq.png)
 
+## Video
+* Needs to be updated!
+
 ```cpp
 /* declare "buzzer" variables */
 int buzzer = 5;
@@ -145,3 +148,24 @@ Can be used mult declaration's on the same type as example below:
 * The showed code is for a rgb LED [ Light Emissor Diode ], for the single led operations see the folders above!
 
 * The LDR resistence may vary piece by piece verify the datasheet for your own!
+
+## DataSheet's
+
+|  Components  |
+|:--------------|
+| 3x [Resistor 220Ω](https://www.digchip.com/datasheets/parts/datasheet/1838/CFR-25JB-220R.php) |
+| 1x [Resistor 4.7kΩ]() |
+| 1x [LED RGB(Light Emissor Diode)](https://components101.com/diodes/rgb-led-pinout-configuration-circuit-datasheet) |
+| 1x [Buzzer](https://category.alldatasheet.com/index.jsp?sSearchword=Buzzer%20datasheet&gclid=CjwKCAjwgsqoBhBNEiwAwe5w0-AXSM-Jwz2fJnvWkg2uLc6ktvxCOBWuCnBB7DBtk4p8hWObUk4owxoCM5oQAvD_BwE)  | 
+| 1x [Arduino R3](https://datasheet.octopart.com/A000066-Arduino-datasheet-170320520.pdf?_gl=1*22gmcz*_ga*ODU5ODM2OTE1LjE2OTU3NjI2NDM.*_ga_SNYD338KXX*MTY5NTc2MjY0NC4xLjAuMTY5NTc2MjY1My4wLjAuMA..) | 
+| 1x [LDR(Light Dependent Resistor)](https://components101.com/sites/default/files/component_datasheet/LDR%20Datasheet.pdf) |
+
+| Optional |
+|:----------|
+| 1x [Diode](https://category.alldatasheet.com/index.jsp?sSearchword=Diode%20datasheet&gclid=CjwKCAjwgsqoBhBNEiwAwe5w0xUBcM1RhuJFK4lxRC_CcuzRB_5t4q-abkr-WCbo8pIZ7QTzFb2mORoCHvQQAvD_BwE) |
+| 1x [Diode Zener 5.1v](https://www.arrow.com/en/products/bzt52c5v1-7-f/diodes-incorporated?region=europe&utm_source=FindChips&utm_medium=Aggregator&utm_term=InvListing-Product&utm_content=Arrow-Region&utm_campaign=FindChips-2023)|
+| 3x [LED's Colored](https://category.alldatasheet.com/index.jsp?sSearchword=Led%20datasheet&gclid=CjwKCAjwgsqoBhBNEiwAwe5w03M2hviuDyh2d-DJcZ34nNcV3Zxo8u1WtoYNIC6t8M4QPOpv6Jq09RoCRDEQAvD_BwE) |
+
+## Licence
+
+* This Project has "The Unlicense" protection as a licence. [lincence link] (https://github.com/SgT012003/CP-EdgeComputing/blob/main/LICENSE)
