@@ -23,7 +23,8 @@ The project can be found on the [Tinkercad page](https://www.tinkercad.com/thing
 
 ## Video
 
-* Needs to be updated!
+https://github.com/SgT012003/CP-EdgeComputing/assets/82065998/99ea7eff-a1a5-49c8-b0da-e73d6b1e351d
+
 
 
 ## Code
