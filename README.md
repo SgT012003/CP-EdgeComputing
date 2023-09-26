@@ -24,6 +24,7 @@ The project can be found on the [Tinkercad page](https://www.tinkercad.com/thing
 ## Video
 * Needs to be updated!
 
+## Code
 ```cpp
 /* declare "buzzer" variables */
 int buzzer = 5;
