@@ -172,4 +172,4 @@ Can be used mult declaration's on the same type as example below:
 
 ## Licence
 
-* This Project has "The Unlicense" protection as a licence. [lincence link] (https://github.com/SgT012003/CP-EdgeComputing/blob/main/LICENSE)
+* This Project has "The Unlicense" protection as a licence. [lincence link](https://github.com/SgT012003/CP-EdgeComputing/blob/main/LICENSE)
