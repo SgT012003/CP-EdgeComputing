@@ -22,9 +22,12 @@ The project can be found on the [Tinkercad page](https://www.tinkercad.com/thing
 ![photo from Tinkercad of the eletric view](https://i.imgur.com/aT5Xrrq.png)
 
 ## Video
+
 * Needs to be updated!
 
+
 ## Code
+
 ```cpp
 /* declare "buzzer" variables */
 int buzzer = 5;
