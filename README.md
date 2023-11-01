@@ -26,6 +26,7 @@ If you compare the DataSheet's components u will repair that was missing a DHT11
 
 ## Video
 
+https://github.com/SgT012003/CP-EdgeComputing/assets/82065998/7b106389-6003-4192-b6fc-adb33bf26e5a
 
 
 
@@ -85,9 +86,10 @@ void loop() {
       case 0:
         if (results[w] > 15) {
           tone(buzzer, melody, 3000);
-          play = 3000;
+          delay(3050);
           if (millis() - start >= play) {
             noTone(buzzer);
+            delay(3050);
             play = 0;
           }
         } else if (results[w] < 10) {
@@ -99,9 +101,10 @@ void loop() {
       case 1:
         if (results[w] > 80) {
           tone(buzzer, melody, 3000);
-          play = 3000;
+          delay(3050);
           if (millis() - start >= play) {
             noTone(buzzer);
+            delay(3050);
             play = 0;
           }
         } else if (results[w] < 60) {
